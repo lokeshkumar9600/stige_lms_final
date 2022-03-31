@@ -1,0 +1,28 @@
+{
+  "name": "lms_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshkumar9600/stige_lms_final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshkumar9600/stige_lms_final/issues"
+  },
+  "homepage": "https://github.com/lokeshkumar9600/stige_lms_final#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-sessions": "^1.0.6",
+    "mongoose": "^6.2.9"
+  },
+  "engines": {
+    "node": "15.x"
+  }
+}
